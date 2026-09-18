@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Khatri x ESP7 — Free Fire Tournament",
+      "hasCanvas": false,
+      "bodyTextLen": 1856,
+      "bodyTextHash": "8710f1429f610685fccdeb51b7d96413de3881841b6904ae7c7188894fecadb9",
+      "bodyTextPrefix": "KHATRI × ESP7 Register Reveal VS Poster Hall of Fame Admin ▶ Kha",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Khatri x ESP7 — Free Fire Tournament",
+      "hasCanvas": false,
+      "bodyTextLen": 1856,
+      "bodyTextHash": "8710f1429f610685fccdeb51b7d96413de3881841b6904ae7c7188894fecadb9",
+      "bodyTextPrefix": "KHATRI × ESP7 Register Reveal VS Poster Hall of Fame Admin ▶ Kha",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
